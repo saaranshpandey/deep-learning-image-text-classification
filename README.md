@@ -46,4 +46,4 @@ This project examines two deep learning pipelines—one for **image classificati
 4. **Hyperparameter Tuning** (learning rates, layer dimensions, regularization, dropout) significantly enhances accuracy.
 
 ---
-_**Contributors:**: Saaransh Pandey, Ryan Krumenacker, Akshat D Talreja._
+_**Contributors**: Saaransh Pandey, Ryan Krumenacker, Akshat D Talreja._
