@@ -10,18 +10,16 @@ This project examines two deep learning pipelines—one for **image classificati
 ---
 
 ## 2. Project Files
-- **`cis_project3_cv.ipynb`**  
+- **`cis_project_cv.ipynb`**  
   - Implements CNN-based models for the CIFAR-10 dataset.  
   - Includes baseline CNN, improved CNN with dropout/L2/batch normalization, hyperparameter tuning, and dataset shift experiments (flip, zoom, rotation, brightness).  
   - Also explores transfer learning (VGG19, ResNet50) for improved accuracy.
 
-- **`cis_project3_nlp.ipynb`**  
+- **`cis_project_nlp.ipynb`**  
   - Focuses on deep learning for text classification (review sentiment).  
   - Explores RNNs (LSTMs) with GloVe embeddings, plus DAN (Deep Averaging Network) models.  
   - Compares performance to a tuned logistic regression baseline.  
   - Investigates dataset shift scenarios (training on shorter reviews vs. testing on longer reviews).
-
-*(File names may vary slightly, but these notebooks represent the CV and NLP pipelines.)*
 
 ---
 
